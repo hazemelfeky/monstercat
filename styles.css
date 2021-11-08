@@ -1,6 +1,6 @@
 @font-face {
   font-family: myFirstFont;
-  src: url('./MonumentExtended-Regular.otf');
+  src: url('./assets/MonumentExtended-Regular.otf');
 }
 
 :root{
