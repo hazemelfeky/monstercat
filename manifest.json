@@ -1,0 +1,23 @@
+{
+  "theme_color": "#f69435",
+  "background_color": "#f69435",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/index.html",
+  "name": "Monstercat - pizza",
+  "short_name": "Monstercat",
+  "description": "pizza",
+  "icons": [
+    {
+      "src": "/images/pizza-icons/pizza-265.ico",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/images/pizza-icons/pizza-128.ico",
+      "type": "image/png",
+      "sizes": "128x128",
+      "purpose": "maskable"
+    }
+  ]
+}
